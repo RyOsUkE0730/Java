@@ -22,7 +22,7 @@ public class Practice {
 // 配列を宣言、3つの箱を用意する
     int[] answer = new int[3];
     int[] input = new int[3];
-
+    
     int hit = 0,blow = 0, count = 0;
 
 // タイトルとルールを出力
